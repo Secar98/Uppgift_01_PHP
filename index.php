@@ -197,7 +197,7 @@ class App
 
 <body>
 
-    <h1 class="page-header"><span>Welcome to fake store!</span></h1>
+    <h1 class="page-header"><span>Welcome to fake store</span></h1>
 
     <?php
     try {
